@@ -1,8 +1,15 @@
+# AI-Agents-for-All
+AI Agents for All is a global open-source initiative to make AI agents accessible to everyone. Discover ready-to-use templates, frameworks, and real-world examples for building autonomous, ethical, and powerful agents. Built for developers, learners, and innovators across industries.
+
+![](assets/ai-agents.png)
+
 ## 🌍 Key Initiative: AI for All
 
 ### 🚀 *AI for All – Making AI Accessible to Everyone*
 
 **AI for All** is my flagship global initiative committed to making AI knowledge accessible to everyone, empowering people from all backgrounds, locations, and walks of life to unlock the potential of artificial intelligence and create a better future.
+
+![](assets/ai-for-all.png)
 
 🔹 **What it offers:**
 
@@ -14,8 +21,6 @@
 
 🔗 Learn more and join the movement: [drdebashisdutta.com/ai-for-all](https://drdebashisdutta.com/ai-for-all)
 
-# AI-Agents-for-All
-AI Agents for All is a global open-source initiative to make AI agents accessible to everyone. Discover ready-to-use templates, frameworks, and real-world examples for building autonomous, ethical, and powerful agents. Built for developers, learners, and innovators across industries.
 
 # 🌍 AI Agents for All
 
@@ -158,6 +163,7 @@ Here’s how you can grow your AI agent skills:
 - **For the Curious** - Dive in and explore the tools and techniques you need to build your own fully functional AI agents.A course will be launched shortly to guide you through it all.
 - **For the Bold** - Explore advanced topics like multi-agent systems and innovative, cutting-edge design techniques. A course will be launched shortly to guide you through it all.
 
+![](assets/free-courses.png)
 
 ### Repositories
 There are many repositories to get started learning AI agents (thanks to [awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) for the list):
