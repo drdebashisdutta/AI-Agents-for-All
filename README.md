@@ -1772,7 +1772,7 @@ This project was inspired in part by [Jim Schwoebel's awesome_ai_agents](https:/
 ### LinkedIn
 Share on LinkedIn with this simple post:
 
-> 🚀 **AI Agents for All** - A curated collection of cutting-edge tools, resources, and inspiring projects in the world of AI agents. Open-source, community-driven, and ready to help spread AII for All! 
+> 🚀 **AI Agents for All** - A curated collection of cutting-edge tools, resources, and inspiring projects in the world of AI agents. Open-source, community-driven, and ready to help spread AI for All! 
 > 🔗 [Check it out here!](https://github.com/drdebashisdutta/AI-Agents-for-All)  
 > #AI #MachineLearning #Automation #OpenSource #ArtificialIntelligence #DataScience #Innovation
 
@@ -1781,7 +1781,7 @@ Share on LinkedIn with this simple post:
 ### Twitter
 Tweet this to share on Twitter:
 
-> 🚀 Discover the **Awesome AI Agents** repo! 🤖 A curated collection of AI agents for automation, NLP, and more! Open-source & community-driven! 🌟  
+> 🚀 Discover the **AI Agents for All** repo! 🤖 A curated collection of AI agents for automation, NLP, and more! Open-source & community-driven! 🌟  
 > 🔗 [Check it out here!](https://github.com/drdebashisdutta/AI-Agents-for-All)  
 > #AI #MachineLearning #Automation #OpenSource #ArtificialIntelligence #Innovation
 
